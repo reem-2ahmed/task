@@ -1,0 +1,58 @@
+selector {
+    property: value;
+    property:value
+}
+div {
+    background-color: #282b30;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+table {
+    color: white;
+}
+ul {
+    color: white;
+}
+ol {
+    color: white;
+}
+p {
+    color: white;
+}
+a {
+    color: blue;
+}
+span {
+    color: white;
+}
+table {
+    background-color: white;
+}
+table {
+    color: black;
+}
+table {
+    border-spacing: 0px;
+}
+table {
+    width: 30%;
+}
+table {
+    height: 10px;
+}
+ul {
+    font-size: large;
+}
+ol {
+    font-size: x-large;
+}
+p {
+    font-size: x-large; 
+}
